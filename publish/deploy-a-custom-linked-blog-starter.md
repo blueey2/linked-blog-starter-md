@@ -23,4 +23,4 @@ Here are the [docs for Next.JS](https://nextjs.org/docs) and a few things to kno
 1.  [[publish-your-obsidian-notes-with-linked-blog-starter|Create and publish]] your forked md repository
 2. Update the [[update-publish-settings-github-actions|"BLOG_REPO" environment variable]] to point to your forked repo
 3. OPTIONAL: [[connect-obsidian-vault-with-github|Connect your Obsidian Vault with Github]]
-asdashidahdi
+
