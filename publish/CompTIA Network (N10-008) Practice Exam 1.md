@@ -34,4 +34,3 @@
 + [[Practice Exam 1 Study#*Given a scenario, apply network hardening techniques. (4.3)* | Given a scenario, apply network hardening techniques. (*4.3*)]]
 	+ Wireless security
 	+ Best practices
-	+ sadadijad
