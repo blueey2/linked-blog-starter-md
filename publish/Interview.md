@@ -20,30 +20,27 @@
     
     _Answer:_ During an event, the projector suddenly stopped displaying content moments before the event started. I diagnosed the issue to be a connection problem. I reconnected the cables, tested the setup, and ensured the content was projected seamlessly. This experience taught me the importance of thorough pre-event testing and the ability to troubleshoot effectively under pressure.
 # Behavioral Questions
-1. **Tell me about a time when you had to handle a particularly challenging technical support request. How did you approach it, and what was the outcome?**
+1. **Describe a situation where you had to handle a challenging technical issue under tight time constraints. How did you manage the situation?**
     
-    _Answer:_ One time a user reported a critical system error just before a deadline. I actively listened to their description of the issue, and empathized with their urgency. I utilized my troubleshooting skills to identify the root cause—a corrupted file—and explained the steps to restore it. The issue was resolved promptly, meeting the deadline and ensuring the user's confidence in our support."
+    _Answer:_ In a recent event at , an audio issue emerged minutes before a service. The audio suddenly cut out, causing disruptions. I isolated the issue to a software glitch. Remaining composed, I followed a systematic troubleshooting process, identified the root cause, and reconfigured the audio system, restoring sound just in time for the service. This experience taught me the value of quick thinking, focused problem-solving, and maintaining a calm demeanor under pressure.
     
-2. **Can you share an example of a situation where you had to explain a complex technical issue to a non-technical user? How did you ensure they understood the solution?**
+2. **Can you share a time when you collaborated with a diverse team to implement a technology solution? How did you ensure effective communication and cooperation?**
     
-    _Answer:_ "Once, a user struggled with setting up email on their mobile device. I simplified the technical jargon and used relatable examples to explain server settings and authentication. I guided them through each step, and I also provided screenshots to visualize the process. By tailoring my communication to their understanding, they successfully configured their email, and they appreciated my patient and clear assistance."
+    _Answer:_ Collaborating with the worship team at the church, we aimed to enhance audiovisual experiences. I initiated regular meetings to understand their vision, provided insights on suitable equipment upgrades, and ensured their requirements were met. Effective communication was key; I maintained open channels for feedback, clarified expectations, and offered technical guidance in non-technical terms. This approach facilitated seamless cooperation, resulting in improved worship services and a stronger sense of teamwork.
     
-3. **Describe a time when you had to multitask and prioritize multiple support requests simultaneously. How did you manage your time effectively?**
+3. **Tell me about a situation where you faced a particularly stubborn technical challenge. How did you approach the problem and ultimately find a solution?**
     
-    _Answer:_ "In a busy period, I received several urgent support requests. I assessed the severity of each issue, prioritized based on impact, and communicated expected response times to users. By efficiently categorizing issues and addressing critical ones first, I minimized downtime and ensured users were kept informed throughout the process."
+    _Answer:_ We encountered an issue with a projector failing moments before a crucial presentation at Crossland Community Church. I approached the problem systematically by checking the connections and source settings. However, the issue persisted due to a compatibility conflict. To resolve it, I thought creatively and quickly switched to an alternative source that worked seamlessly. This experience reinforced the importance of adaptability, resourcefulness, and finding alternative solutions when faced with stubborn challenges.
     
-4. **Tell me about a situation where you encountered a problem with an unfamiliar software or technology. How did you go about learning and resolving the issue?**
+4. **Describe a time when you had to assist a non-technical user with a complex issue. How did you effectively communicate the solution without overwhelming them with technical jargon?**
     
-    _Answer:_ "Encountering an unfamiliar software, I researched online documentation, forums, and knowledge bases to understand its functionalities and common issues. Through trial and error in a controlled environment, I replicated the problem and tested potential solutions. After troubleshooting, I successfully resolved the issue and documented the process for future reference."
+    _Answer:_ Once, a staff member had trouble accessing a shared resource through Active Directory. I approached the situation with patience, asking open-ended questions to understand their experience. I then provided a step-by-step solution using simple, non-technical language, avoiding jargon. I used analogies and visual aids to clarify concepts. The staff member appreciated my approach, successfully resolved the issue, and gained confidence in utilizing technology.
     
-5. **Share an example of a time when you successfully de-escalated an upset user. How did you manage the situation and ensure a positive outcome?**
+5. **Can you share an example of a project where you implemented technology improvements that positively impacted end-users' experiences?**
     
-    _Answer:_ "Once, a frustrated user contacted me about a recurring network connectivity issue. I actively listened to their concerns, acknowledged their frustration, and assured them that I would address the issue. I provided transparent updates throughout the troubleshooting process, empathizing with their experience. By resolving the issue promptly and maintaining open communication, I turned their frustration into satisfaction."
+    _Answer:_ Through the "Service Continuity Assurance Project," I ensured uninterrupted services and events at Crossland Community Church. By meticulously planning and executing strategies, we minimized disruptions caused by hardware and software issues. This led to smoother proceedings and heightened congregational engagement. Attendees consistently experienced seamless technology, resulting in enhanced worship experiences and greater satisfaction among both church staff and congregation members.
     
-6. **Describe a situation when you identified a recurring technical problem and took proactive steps to prevent it from happening again in the future.**
+6. **Tell us about a time when you had to balance multiple competing priorities in a fast-paced environment. How did you manage your time effectively?**
     
-    _Answer:_ "In my previous role, I noticed a pattern of users encountering email attachment errors. I investigated and realized that it was due to file size limitations. To prevent future occurrences, I created a user-friendly guide on compressing files and educated users about attachment size limits. This proactive approach significantly reduced email-related issues."
-    
-7. **Can you give an example of a time when you collaborated with a colleague or another team to resolve a complex technical issue?**
-    
-    _Answer:_ "A challenging issue involved network connectivity disruptions during peak usage. I collaborated with the networking team to analyze network traffic patterns and identify bottlenecks. By sharing insights and coordinating efforts, we implemented adjustments to network settings, resulting in improved performance and minimized disruptions."
+    _Answer:_ During an event preparation, I was tasked with assisting staff members, configuring audiovisual equipment, and providing technical support. To manage competing priorities, I organized tasks based on urgency, setting clear timelines. I communicated expectations and timelines with stakeholders, ensuring everyone was on the same page. By efficiently allocating my time and resources, I successfully met all demands without sacrificing quality or customer service.
+
