@@ -1,11 +1,11 @@
 # Basic questions
 1. **Can you elaborate on your experience overseeing IT systems and infrastructure at Crossland Community Church?**
     
-    _Answer:_ Certainly. During my time at Crossland Community Church, I was responsible for ensuring the seamless functionality of all IT systems and infrastructure. I provided comprehensive technical assistance to both church personnel and congregation members, addressing their technology-related needs. This involved a combination of adept technical problem-solving, end-user support, and efficient project coordination to enhance the church's technological capabilities.
+    _Answer:_  I provided technical assistance to both church personnel and congregation members, addressing their technology-related needs. This involved a combination of adept technical problem-solving, end-user support, and efficient project coordination to enhance the church's technological capabilities.
     
 2. **How did you ensure uninterrupted services and events by swiftly resolving hardware and software issues for church staff and volunteers? Could you provide an example?**
     
-    _Answer:_ I took a proactive approach to swiftly resolve hardware and software issues during services and events. For instance, during a critical event, we encountered a sudden audio issue that affected the worship service. I quickly identified it as a software glitch within the audio system. Leveraging my technical expertise, I performed on-the-spot troubleshooting and software reconfiguration, restoring the audio quality and ensuring the uninterrupted flow of the service.
+    _Answer:_ I took a proactive approach to resolve hardware and software issues during services and events. Once during a critical event, we encountered a sudden audio issue that affected the  service. I identified it as a software glitch within the audio system. Leveraging my technical expertise, I performed on-the-spot troubleshooting and software reconfiguration, restoring the audio quality and ensuring the uninterrupted flow of the service.
     
 3. **Tell us about your role in managing and optimizing the church's network infrastructure. What strategies did you use to ensure consistent connectivity for both internal users and guests?**
     
