@@ -14,7 +14,7 @@
     
 5. **Describe a specific instance where you collaborated with diverse teams to identify technology needs and successfully implemented solutions that enhanced their activities.**
     
-    _Answer:_ One notable collaboration involved working with the worship team to enhance audiovisual technology for services. They sought a more immersive experience for attendees. I collaborated with the team to understand their vision, recommended suitable equipment upgrades, and successfully configured audiovisual systems to match their requirements. This collaboration resulted in enhanced worship services, better engagement, and a positive impact on congregational experiences.
+    _Answer:_ I worked with the worship team to enhance audiovisual technology for services. They sought a more immersive experience for attendees. I collaborated with the team to understand their vision, recommended suitable equipment upgrades, and successfully configured audiovisual systems to match their requirements.
     
 6. **Can you provide an example of a challenging situation you encountered while configuring audiovisual equipment for worship services or events and how you resolved it?**
     
