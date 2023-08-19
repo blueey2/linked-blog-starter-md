@@ -3,13 +3,10 @@
     
     _Answer:_  I provided technical assistance to both church personnel and congregation members, addressing their technology-related needs. This involved a combination of adept technical problem-solving, end-user support, and efficient project coordination to enhance the church's technological capabilities.
     
-2. **How did you ensure uninterrupted services and events by swiftly resolving hardware and software issues for church staff and volunteers? Could you provide an example?**
-    
-    _Answer:_ I took a proactive approach to resolve hardware and software issues during services and events. Once during an event, we encountered a sudden audio issue that affected the  service. I identified it as a software glitch within the audio system. Leveraging my technical expertise, I performed on-the-spot troubleshooting and software reconfiguration, restoring the audio quality and ensuring the uninterrupted flow of the service.
     
 3. **Tell us about your role in managing and optimizing the church's network infrastructure. What strategies did you use to ensure consistent connectivity for both internal users and guests?**
     
-    _Answer:_ As the manager of the church's network infrastructure, I ensured reliable connectivity for both internal users and guests. One strategy involved regular maintenance of routers, switches, and access points to prevent potential disruptions. Additionally, I implemented network monitoring tools to proactively identify and address any performance issues. This allowed us to provide consistent and seamless connectivity, contributing to positive technology experiences for everyone.
+    _Answer:_ As support for the church's network infrastructure, I ensured reliable connectivity for both internal users and guests. One strategy involved regular maintenance of routers, switches, and access points to prevent potential disruptions. Additionally, I implemented network monitoring tools to proactively identify and address any performance issues. This allowed us to provide consistent and seamless connectivity, contributing to positive technology experiences for everyone.
     
 4. **Could you share how you administered the church's Active Directory system, including managing user accounts, permissions, and resource access?**
     
