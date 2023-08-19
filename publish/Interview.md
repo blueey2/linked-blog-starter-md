@@ -6,11 +6,11 @@
     
 3. **Tell us about your role in managing and optimizing the church's network infrastructure. What strategies did you use to ensure consistent connectivity for both internal users and guests?**
     
-    _Answer:_ As support for the church's network infrastructure, I ensured reliable connectivity for both internal users and guests. One strategy involved regular maintenance of routers, switches, and access points to prevent potential disruptions. Additionally, I implemented network monitoring tools to proactively identify and address any performance issues. This allowed us to provide consistent and seamless connectivity, contributing to positive technology experiences for everyone.
+    _Answer:_ I ensured reliable connectivity for both internal users and guests. One strategy involved regular maintenance of routers, switches, and access points to prevent potential disruptions. This allowed us to provide consistent and seamless connectivity, contributing to positive technology experiences for everyone.
     
 4. **Could you share how you administered the church's Active Directory system, including managing user accounts, permissions, and resource access?**
     
-    _Answer:_ Certainly. I was responsible for overseeing the church's Active Directory system. This included managing user accounts by creating, modifying, and disabling accounts as needed. I also controlled permissions to ensure appropriate resource access for different user groups. This role required a keen understanding of user management, security protocols, and effective communication with the teams to align access permissions with organizational needs.
+    _Answer:_ I was responsible for overseeing the church's Active Directory system. This included managing user accounts by creating, modifying, and disabling accounts as needed. I also controlled permissions to ensure appropriate resource access for different user groups.
     
 5. **Describe a specific instance where you collaborated with diverse teams to identify technology needs and successfully implemented solutions that enhanced their activities.**
     
