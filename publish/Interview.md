@@ -26,7 +26,7 @@
     
 4. **Describe a situation where you identified a potential disruption in advance and took proactive steps to prevent it from impacting services or events.**
     
-    _Answer:_ In preparation for a major event, I noticed that the network connectivity in the event hall was unstable. To prevent disruptions, I strategically placed additional access points and tested the connectivity thoroughly. As a result, attendees enjoyed seamless Wi-Fi access throughout the event without any connectivity hiccups.
+    _Answer:_ In preparation for a major event, I noticed that the network connectivity in the event hall was unstable. To prevent disruptions, I  placed additional access points and tested the connectivity thoroughly. As a result, attendees enjoyed seamless Wi-Fi access throughout the event without any connectivity hiccups.
     
 5. **Can you provide an example of a time when you provided excellent technical support to a user who was unfamiliar with technology, ensuring they could participate fully in an event?**
     
@@ -34,8 +34,4 @@
     
 6. **Tell us about a time when you identified a recurring issue through documentation and implemented a solution to prevent future disruptions during services or events.**
     
-    _Answer:_ By maintaining detailed documentation, I discovered a pattern of network disruptions during live streaming. I diagnosed the root cause, which turned out to be an overload on a specific access point. I strategically redistributed the network load and implemented a redundant setup. This solution eliminated disruptions, enhancing the quality of live streams and viewer experiences.
-    
-7. **Describe a situation where you had to troubleshoot network connectivity problems for both internal users and guests in a high-pressure environment. How did you handle it?**
-    
-    _Answer:_ During a conference, numerous attendees reported intermittent Wi-Fi issues. I swiftly isolated the issue to an access point conflict due to signal interference. I changed the channel settings, optimized signal strength, and educated the event team about device connectivity best practices. This resolved the issue, and attendees enjoyed reliable connectivity throughout the conference.
+    _Answer:_ By maintaining detailed documentation, I discovered a pattern of network disruptions during live streaming. I diagnosed the root cause, which turned out to be an overload on a specific access point. I  redistributed the network load and implemented a redundant setup. This solution eliminated disruptions, enhancing the quality of live streams and viewer experiences.
