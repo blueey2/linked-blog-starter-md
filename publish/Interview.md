@@ -5,7 +5,7 @@
     
 2. **How did you ensure uninterrupted services and events by swiftly resolving hardware and software issues for church staff and volunteers? Could you provide an example?**
     
-    _Answer:_ I took a proactive approach to resolve hardware and software issues during services and events. Once during a critical event, we encountered a sudden audio issue that affected the  service. I identified it as a software glitch within the audio system. Leveraging my technical expertise, I performed on-the-spot troubleshooting and software reconfiguration, restoring the audio quality and ensuring the uninterrupted flow of the service.
+    _Answer:_ I took a proactive approach to resolve hardware and software issues during services and events. Once during an event, we encountered a sudden audio issue that affected the  service. I identified it as a software glitch within the audio system. Leveraging my technical expertise, I performed on-the-spot troubleshooting and software reconfiguration, restoring the audio quality and ensuring the uninterrupted flow of the service.
     
 3. **Tell us about your role in managing and optimizing the church's network infrastructure. What strategies did you use to ensure consistent connectivity for both internal users and guests?**
     
