@@ -10,4 +10,6 @@
 	Used by STP to prevent the bridge loops
 		_Exchanges information between network bridges in order to prevent loops and ensure efficient data forwarding in Ethernet Networks_
 
-
+**Physical Layer**
+	Transmits raw bit stream over the physical medium
+		__
