@@ -21,5 +21,5 @@
 	Link state routing protocol that was developed for IP networks and is based on the shortest path first Algorithm. Supports IPv4 and VLSM.
 		_Used in computer networks to determine the best path for data packets to travel within a network, based on factors like network topology and link costs_
 
-**Patch cable
+
 	
