@@ -9,3 +9,9 @@ DHCP Relay
 	Puts DHCP server on a distance subnet
 Anycast
 	Single destination IP address has multiple paths to two or more endpoints
+CRC Error
+	Faulty cables
+ARP
+	Associate a devices MAC address with an IP address
+IFCONFIG
+	View the subnet mask of a linux computer
