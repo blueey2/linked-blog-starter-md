@@ -19,3 +19,5 @@ CNAME
 	Tells DNS to use different names for a paticular server/service
 MX
 	Determines the host name for the mail server
+Crossover Cable
+	No use for a switch
