@@ -15,3 +15,6 @@ ARP
 	Associate a devices MAC address with an IP address
 IFCONFIG
 	View the subnet mask of a linux computer
+Duplex Mismatch
+	
+Speed Mismatch
