@@ -15,3 +15,7 @@ ARP
 	Associate a devices MAC address with an IP address
 IFCONFIG
 	View the subnet mask of a linux computer
+CNAME
+	Tells DNS to use different names for a paticular server/service
+MX
+	Determines the host name for the mail server
