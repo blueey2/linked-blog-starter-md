@@ -28,7 +28,11 @@ Rollover cable
 Straight through Cable
 	A common type of ethernet cable used to connect different types of network devices, such as computers to switches, routers, to modems, or similar scenarios.
 T1
-
+	A digital telecommunications service that provides high speed, dedicated, and reliable data transmission over a telecommunications network. Widely used for voice and data communication.
+		**Characteristics**
+			Has a data rate of 1,544 MBPS.
+			Typically divided into 24 individual channels, with each channel capable of carrying data or voice.
+			T1 Connections are usually point-to-point connections
 110/66 Punchdown block
 
 Fiber light meter
