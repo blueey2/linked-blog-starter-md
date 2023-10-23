@@ -21,3 +21,24 @@ MX
 	Determines the host name for the mail server
 Crossover Cable
 	No use for a switch
+T1
+
+110/66 Punchdown block
+
+Fiber light meter
+
+OTDR
+
+Broadcast storm
+
+Asymmetric routing
+
+Collisions
+
+VLAN Hopping
+
+Rogue DHCP
+
+QoS
+	Layer 2
+
