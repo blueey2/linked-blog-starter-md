@@ -62,6 +62,18 @@ STP states (Learning, Forwarding, Listening, Blocking)
 
 Multilayer switch
 
+802.3ad
+
+802.1x
+
+802.1d
+
+802.3af
+
+WAF(Web application firewall)
+
+
+
 
 
 
