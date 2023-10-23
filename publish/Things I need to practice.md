@@ -56,6 +56,13 @@ IP helper
 
 Business continuity plan
 
+Crosstalk
+
+STP states (Learning, Forwarding, Listening, Blocking)
+
+Multilayer switch
+
+
 
 
 
