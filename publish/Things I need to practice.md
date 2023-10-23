@@ -45,21 +45,21 @@ Broadcast storm
 Asymmetric routing
 	A routing configuration where incoming and outgoing network traffic between two devices or networks follows the same path in both directions.
 Collisions
-	Occur in ethernet based networks, specifically in shared media environments like ethernet  hubs or older ethernet networks using a shared coaxial cable
+	Occur in ethernet based networks, specifically in shared media environments like ethernet  hubs or older ethernet networks using a shared coaxial cable.
 VLAN Hopping
-
+	Vlan hopping occurs when an attacker exploits vulnerabilities in network devices or protocols to gain unauthorized access to traffic on a vlan other than the one they are supposed to be on.
 Rogue DHCP
-
+	An unauthorized and potentially malicious DHCP server that operates on a network without the knowledge or approval of the network administrators.
 QoS(Quality of service)
-
+	A set of technologies and practices used in networking to manage and prioritize network traffic, ensuring that certain types of data receive preferential treatment to meet specific performance and service level objectives
 Cold site
-
+	A disaster recovery solution that provides the least level of readiness and the lowest cost.
 Warm site
-
+	An intermediate level of disaster recovery readiness
 Hot site
-
+	The highest level of disaster recovery preparedness and offers the quickest recovery times. Most expensive
 IP helper
-
+	
 Business continuity plan
 
 Crosstalk
