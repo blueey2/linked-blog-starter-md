@@ -72,6 +72,14 @@ Multilayer switch
 
 WAF(Web application firewall)
 
+Physical network diagram 
+
+Logical network diagram
+
+ESSID broadcast
+
+RAS(Remote access server)
+
 
 
 
