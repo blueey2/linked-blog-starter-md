@@ -44,8 +44,8 @@ VLAN Hopping
 
 Rogue DHCP
 
-QoS
-	Layer 2
+QoS(Quality of service)
+
 Cold site
 
 Warm site
@@ -85,6 +85,21 @@ Teredo tunneling
 Smartjack
 
 MPLS trunking
+
+TXT
+
+SRV
+
+SOA
+
+PTR
+
+Quarantine network
+
+mGRE
+
+
+
 
 
 
