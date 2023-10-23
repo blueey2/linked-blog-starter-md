@@ -45,7 +45,7 @@ Broadcast storm
 Asymmetric routing
 	A routing configuration where incoming and outgoing network traffic between two devices or networks follows the same path in both directions.
 Collisions
-
+	Occur in ethernet based networks, specifically in shared media environments like ethernet  hubs or older ethernet networks using a shared coaxial cable
 VLAN Hopping
 
 Rogue DHCP
