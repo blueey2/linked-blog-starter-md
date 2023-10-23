@@ -100,6 +100,10 @@ mGRE
 
 Captive portal
 
+Deauthentication
+
+Collision domains
+
 
 
 
