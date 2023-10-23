@@ -104,7 +104,9 @@ Deauthentication
 
 Collision domains
 
+Short
 
+Open
 
 
 
