@@ -35,7 +35,7 @@ T1
 			T1 Connections are usually point-to-point connections
 
 Fiber light meter
-	
+	An instrument used in the field of fiber optics and optical communication to measure the optical power or intensity of light in a fiber optic cable
 OTDR
 
 Broadcast storm
