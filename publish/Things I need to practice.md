@@ -37,11 +37,13 @@ T1
 Fiber light meter
 	An instrument used in the field of fiber optics and optical communication to measure the optical power or intensity of light in a fiber optic cable
 OTDR
-
+	A specialized instrument used to troubleshooting optical fiber cablesDef
 Broadcast storm
-
+	A situation in which a network segment experiences an excessive and uncontrolled volume of broadcast or multicast traffic.
+		**Effects**
+			Leads to network congestions, degradation in performance, and even network outages if not promptly addressed.
 Asymmetric routing
-
+	A routing configuration where incoming and outgoing network traffic between two devices or networks follows the same path in both directions.
 Collisions
 
 VLAN Hopping
