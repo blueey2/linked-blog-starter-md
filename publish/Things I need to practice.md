@@ -74,16 +74,20 @@ STP states (Learning, Forwarding, Listening, Blocking)
 		The switch continues to sewnd and receive BGPUs, and it also starts to learn MAC addresses from incoming frames
 	**Forwarding state**
 		The port actively forwards frames between devices connected to it
-Multilayer switch
-
-802.3ad
-
-802.1x
-
-802.1d
-
-802.3af
-
+Multilayer switch (Layer 3 switch)
+	A network switch that operates at both layer 2 (DLL) and layer 3 (NLL) of the OSI model. This dual functionality allows a multilayer switch to perform routing and switching functions within a single device making it a versatile and efficient solution for building and managing complex networks.
+802.3ad **(LACP)**
+	A standard that defines link aggregation, AKA ethernet bonding or port trunking.
+	It allows multiple physical ethernet links to be combine into a single logical link, which provides increased band width, redundancy, and load balancing.
+802.1x **(Port-based Network access control)**
+	A network access control standard used to enhance the security of ethernet networks.
+	Provides a framework for controlling access to a network by authenticating and authorizing devices, such as computers or users, before they are allowed to access the network.
+802.1d **(STP)**
+	A network protocol used to prevent network loops in ethernet networks.
+	Defines how switches in a network work together  to create a loop-free logical topology by blocking certain redundant paths while allowing for rapid failover in case of a link or switch failure.
+802.3af **(POE)**
+	Standard for providing power to network devices over ethernet cables.
+	It allows network devices such as IP phones, WAPS, and IP cameras, to receive power and data over the same Ethernet cable.
 WAF(Web application firewall)
 
 Physical network diagram 
