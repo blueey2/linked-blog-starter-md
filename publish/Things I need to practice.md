@@ -59,9 +59,9 @@ Warm site
 Hot site
 	The highest level of disaster recovery preparedness and offers the quickest recovery times. Most expensive
 IP helper
-	
+	A network configuration feature commonly found in routers and layer 3 switches. Its used to facilitate the routing and forwarding of network traffic between different subnets or broadcast domains by assisting certain network services that rely on broadcasts or multicast traffic
 Business continuity plan
-
+	
 Crosstalk
 
 STP states (Learning, Forwarding, Listening, Blocking)
@@ -113,6 +113,8 @@ Collision domains
 Short
 
 Open
+
+Broadcast domains
 
 
 
