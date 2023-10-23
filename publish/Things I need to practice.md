@@ -33,10 +33,9 @@ T1
 			Has a data rate of 1,544 MBPS.
 			Typically divided into 24 individual channels, with each channel capable of carrying data or voice.
 			T1 Connections are usually point-to-point connections
-110/66 Punchdown block
 
 Fiber light meter
-
+	
 OTDR
 
 Broadcast storm
