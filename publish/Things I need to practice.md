@@ -20,12 +20,13 @@ CNAME
 MX
 	Determines the host name for the mail server
 Crossover Cable
-	No use for a switch
+	A type of ethernet cable used to directly connect two similar devices, Such as two computer or two switches, without the need for an intermediary networking device like a router
+		
 Rollover cable
-
+	Special type of serial cable used to connect a computer or terminal to a networking device for the purpose of configuring, monitoring, or troubleshooting the device.
+		Devices typically include network routers, switches and firewalls
 Straight through Cable
-
-
+	A common type of ethernet cable used to connect different types of network devices, such as computers to switches, routers, to modems, or similar scenarios.
 T1
 
 110/66 Punchdown block
