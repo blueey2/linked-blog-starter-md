@@ -21,6 +21,11 @@ MX
 	Determines the host name for the mail server
 Crossover Cable
 	No use for a switch
+Rollover cable
+
+Straight through Cable
+
+
 T1
 
 110/66 Punchdown block
@@ -41,4 +46,13 @@ Rogue DHCP
 
 QoS
 	Layer 2
+Cold site
+
+Warm site
+
+Hot site
+
+IP helper
+
+
 
