@@ -89,44 +89,61 @@ Multilayer switch (Layer 3 switch)
 	Standard for providing power to network devices over ethernet cables.
 	It allows network devices such as IP phones, WAPS, and IP cameras, to receive power and data over the same Ethernet cable.
 WAF(Web application firewall)
-
+	A security solution designed to protect web applications, websites, and web services from a variety of online threats, including malicious web  traffic, cyberattacks, and vulnerabilities.
 Physical network diagram 
-
+	Provides a visual representation of the physical components and the physical layour of a network.
+	It illustrates the actual hardware devices, cables, connectors, and their physical connections within a network.
+	Used to plan, design, document, and troubleshoot physical network infrastructures.
 Logical network diagram
-
+	Represents the logical relationships, configurations, and connections between network devices and their functionalities.
+	It focuses on how data flows within the network and how network services are organized, without depiction the physical layout or hardware details.
+	Used to design and communicate network architectures, demonstrate the flow of data, and illustrate network protocols and services
 ESSID broadcast
-
+	A feature in wifi networks that involves the periodic transmission of the networks name by the WAP or router.
+	If disabled users would need to manually type in the SSID
 RAS(Remote access server)
-
+	A network or device that provides authorized users with remote access to a network, typically through a secure and controlled connection.
+	The primary purpose of a RAS is to enable remote users, such as employees, clients, or partners, to access network resources, applications, and data as if they were physically present on the local network
 Teredo tunneling
-
-Smartjack
-
-MPLS trunking
-
+	A network protocol and technology that is used to enable ipv6 connectivity for devices that are located behind NAT devices. such as home routers.
+	It provides a way for these devices to establish IPv6 connections and communicate with IPv6 enabled servers and services on the global internet, even when the devices are assigned private IPv4 addresses and are not directly reachable via IPv6.
+Smartjack **(Smart network interface device)**
+	A NID used in telecommunications to facilitate the connection between a customers premises and service providers network, typically for services like broadband internet and voice communication.
+MPLS trunking **(Multi-Protocol label switching trunking)**
+	A network technology that involves the use of MPLS to create virtual connections or trunks that can carry multiple network services or traffic types over a singe MPLS network.
 TXT
-
+	A type of DNS resource record that is used to associate text information with a domain name.
+	Used for providing additional info about a domain, verifying domain ownership, configuring email services, and supporting various internet protocols.
 SRV
-
+	Type of DNS resource record used to specify info about the location and availability of network services associated with a domain.
+	Commonly used to help clients locate and connect to specific services, such as email, voice over IP, and other network applications.
 SOA
-
+	A DNS resource record that provides essential administrative info about a specific domain.
+	Associated with the top level domain in a zone file and is used to defind various parameters and settings for DNS zone management
 PTR
-
+	A type of DNS resource record that is used to map an IP address to a domain mae
+	Opposite of DNS, Associates IP address with the domain name
 Quarantine network
-
+	A seperate isolated network segment used to temporarily contain and inspect devices or systems that are suspected of being compromised or posing a security risk.
 mGRE
-
+	A networking protocol and technology that extends the capabilities of GRE by allowing multiple remote sites or endpoints to communicate with each other over a common GRE tunnel.
 Captive portal
-
+	A network access control technology used to authenticate and authorize users before granting them access to a network or the internet.
+	Typically used in places that provide internet access to guests or users.
 Deauthentication
-
+	Type of attack that targets wireless networks, particularly those secured with the WPA or WPA2 security protocols.
+	The attacker sends forged deauth frames to wireless devices that are connected to a Wifi network.
+	Disconnets the target from the network disrupting their connectivity.
 Collision domains
-
-Short
-
-Open
-
+	A segment of a network in which network devices, typically computers or NICS contend for control of the networks shared communication medium.
+	They occurs when two or more devices attempt to transmit data on the network simultaneously.
+Short circuit
+	an electrical fault that occurs when an unintended connection is established between two points in an electrical circuit with different voltages or potentials.
+Open Circuit
+	Defines a circuit that is incomplete or interrupted, meaning there is a grap or break in the electrical path, and current cannot flow through it.
 Broadcast domains
+	A logical division of a computer network where devices can exchange broadcast packets, which are data packets sent to all devices within the same broadcast domain
+	Typically bounded by routers, switches, or other network devices that separate them from other broadcast domains.
 
 
 
