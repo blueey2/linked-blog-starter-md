@@ -4,7 +4,7 @@ IGMP Snooping (Internet group management protocol)
 	Hosts and routers use IGMP to direct multicast transmissions
 	Configured in a switch
 Port tagging
-	Tag traffic with VLAN info then send it across the network the tag is ripped off and placed where the tag says it supposed to be.
+	Used to logically segment a physical network into multiple virtual networks or vlans
 DHCP Relay
 	Puts DHCP server on a distance subnet
 Anycast
@@ -16,7 +16,7 @@ ARP
 IFCONFIG
 	View the subnet mask of a linux computer
 CNAME
-	Tells DNS to use different names for a paticular server/service
+	Used to create an alias or a pointer from one domain name to another
 MX
 	Determines the host name for the mail server
 Crossover Cable
