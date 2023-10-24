@@ -1,12 +1,6 @@
-T1
-	A digital communication line used to transmit data typically over telephone networks
-	T1
-	A digital communcation line usedto transmit data typically over telephone networks
-	T1
-	A digital communication line used to transmit data typically over telephone networks
-	T1
-	A digital communcation line used to transmit data typically over telephone networks
-	T1
-	A digital communcation line used to transmit data typically over telephone networks
-	T1
-	A digital communcation line used to transmite data typically over telephone networks
+Rogue DHCP
+	Unauthorized and potentially malicious DHCP server that operates on a network without the knowledge or approval of the nbetwork aDMIN
+	Rogue DHCP
+	Unauthorized and potentially malicious DHCP server that operates on a netowkr without knowledge or approval of the network admin
+	Rogue DHCP
+	Unauthorized and potentially malicious DHCP server that operates on a network without knowledge or approval of the network admin
