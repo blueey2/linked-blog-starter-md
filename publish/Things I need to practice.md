@@ -16,9 +16,11 @@ ARP
 IFCONFIG
 	View the subnet mask of a linux computer
 CNAME
-	Used to create an alias or a pointer from one domain name to another
+	Used to create an alias or a pointer from one domain name to another.
+	EX: www.hostname.com and www.host.com Will go to the same website if you add a cname
 MX
-	Determines the host name for the mail server
+	Used to specify the mail server responsible for receiving and handling email messages on behalf of the domain
+	Tells your email where to go
 Crossover Cable
 	A type of ethernet cable used to directly connect two similar devices, Such as two computer or two switches, without the need for an intermediary networking device like a router
 		
