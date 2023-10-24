@@ -1,4 +1,10 @@
-Rollover cable
-	Special type of serial cable used to connect a computer or terminal to a networking device for the purpose of configuring monitoring or troubleshooting the device
-	Rollover cable
-	
+Straight through cable
+Common type of ethernet cable used to connect different types of network devices such as computers to switcvhes routers to modems or similar scenarios
+Straight through cable
+Common type of ethernet cable usewd to connect different types of network devices such as computer to switches router to modems or similar scenarios
+Straight through cable
+Common types of ethernet cable used to connecty different types of network devices such as computers to switches router to modems or similar scenarios
+Straight through cable
+Common types of ehternet cable used to connect different types of network devices such as computer to switches router to modemws or similar scenarios
+Straight through cable
+Common types of ethernet cable used to connect different types of network devices such as computers to switches router to modems or similar scenarios
