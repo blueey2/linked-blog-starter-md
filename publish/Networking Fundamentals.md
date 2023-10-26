@@ -5,7 +5,7 @@ Data is referred to as **BITS** at the physical layer
 	Ethernet Cable
 	Fiber optic cable
 	Network Interface card
-
+Also we figure out what type of topology we use at this layer
 ## Data link layer
 Data is referred to as **frames** at the data link link
 ## Network Link Layer
