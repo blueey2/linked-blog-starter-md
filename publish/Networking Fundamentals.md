@@ -33,10 +33,25 @@ Data is referred to as **packets** at the Network link layer
 ## Transport Layer
 Data is referred to as **segments** at the Transport layer
 **TCP/UDP**
-
+**Windowing**
+**Buffering**
 ## Session layer
-
+**Setting up a Session**
+	Exchanging parameters that are gonna be used during the session
+**Maintaining a Session**
+	Making sure things aren't getting dropped
+**Tearing Down a Session**
+	Stopping Communication
 ## Presentation Layer
-
+**Data Formatting**
+	A standard for how everything is constructed. (EX: Jpgs, Pngs, Jpegs, ASCII)
+**Encryption**
+	End to end Encryption
 ## Application layer
+**Application Services**
+	Underlying services that help your applications run
+		EX: If you using outlook some services you would use art SMTP, POP3, IMAP4, ETC
+**Service Advertisement**
+	A device on the network wants to offer service to any other device it lets everyone on the network know.
+		EX: Apple Air print
 
