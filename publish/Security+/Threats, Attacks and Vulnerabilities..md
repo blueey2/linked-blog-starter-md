@@ -18,3 +18,5 @@
 			Attackers go through great length to gain trust from a victim.
 		Urgency:
 			Creating a sense of urgency can cause individuals to act quickly without proper verification.
+<u>Cross-Site Scripting (XSS)</u>
+	A security vulnerability where attackers inject malicious scripts into websites that aren then viewed by other users
