@@ -34,3 +34,5 @@
 <u>C2 Server</u>
 	A central server used by attackers to send commands and receive information from compromised devices within a botnet or malware infected network.
 
+<u>Packet Sniffer</u>
+	A network analyzer is a tool or software application used to capture and analyze data packets transmitted over a network. Used for troubleshooting, monitoring, and security analysis.
