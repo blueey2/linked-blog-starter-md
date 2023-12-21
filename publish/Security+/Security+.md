@@ -94,3 +94,9 @@
 
 <u>Buffer overflow</u>
 	A type of software vulnerability that occurs when a program writes more data to a block of memory or buffer than it was allocated to hold.
+
+<u>Integer overflow</u>
+	A vulnerability that occurs when the result of an arithmetic operation exceeds the maximum representable value for the data type used to store it.
+
+<u>Race Condition</u>
+	A type of software vulnerability that occurs when the behavior of a program depends on the relative timing of events such as the order of execution of multiple threads or processes.
