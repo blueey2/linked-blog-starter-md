@@ -60,4 +60,9 @@
 <u>Birthday Attack</u>
 	A type of cryptographic attack that exploits the probability of collisions in has functions.
 
-<u></u>
+<u>Hash Collision</u>
+	When two different inputs produce the same hash value.
+
+<u>cross-site scripting (XSS)</u>
+	A web security vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users.
+	
