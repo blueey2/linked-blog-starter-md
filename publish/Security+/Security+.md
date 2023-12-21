@@ -88,3 +88,9 @@
 <u>XML injection</u>
 	A type of cyber attack that occurs when an attacker injects malicious XML code into an application or a system that parses XML data.
 	Look for inputs that include XML specific characters such as < > & etc.
+
+<u>Directory traversal attack</u>
+	AKA dot-dot slash attack, is a type of security vulnerability where an attacker attempts to access files and directories outside the intended directory structure.
+
+<u>Buffer overflow</u>
+	A type of software vulnerability that occurs when a program writes more data to a block of memory or buffer than it was allocated to hold.
