@@ -30,7 +30,6 @@
 <u>Pharming</u>
 	A cyberattack that involves redirecting the traffic of a website to a fraudulent or malicious website without the users knowledge.
 
-<u></u>
 <u>C2 Server</u>
 	A central server used by attackers to send commands and receive information from compromised devices within a botnet or malware infected network.
 
@@ -60,3 +59,5 @@
 
 <u>Birthday Attack</u>
 	A type of cryptographic attack that exploits the probability of collisions in has functions.
+
+<u></u>
