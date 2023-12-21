@@ -65,4 +65,15 @@
 
 <u>cross-site scripting (XSS)</u>
 	A web security vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users.
+	They can execute in the context of a users browser leading to potential breaches.
+
+<u>SQL Injection</u>
+	A type of cybersecurity attack that occurs when an attcker inserts malicious SQL code into input fields or parameters used by a web application.
 	
+	SELECT * FROM Users WHERE Username = '' OR '1'='1' --' AND Password = 'input_password';
+
+<u>DLL (Dynamic Link Library)</u>
+	A file format used to store a set of functions that can be executed and shared by multiple programs simultaneously.
+
+<u>DLL Injection</u>
+	A technique used in software development and cybersecurity where an external DLL is forced into the address space of a running process.
