@@ -36,3 +36,27 @@
 
 <u>Packet Sniffer</u>
 	A network analyzer is a tool or software application used to capture and analyze data packets transmitted over a network. Used for troubleshooting, monitoring, and security analysis.
+
+<u>PUP (Potentially unwanted program)</u>
+	Software that while not explicitly malicious may exhibit behaviors or characteristics that users may find undesirable.
+
+<u>Fileless Virus</u>
+	A type of malware that operates in the systems memory without leaving traces on the hard drive.
+
+<u>Rootkit</u>
+	A type of malicious software designed to hide its existence or the existence of other malicious processes or programs on a computer network. Rootkits typically gain privileged access often at the root or kernel level of an OS and aim to conceal their presence.
+
+<u>Spraying attack</u>
+	A type of cyber attack where an attacker systematically attempts to compromise a large number of accounts or systems by using a limited set of credentials.
+
+<u>Replay attack</u>
+	A type of cyber attack in which an attacker intercepts and maliciously retransmits valid data transmission between two parties.
+
+<u>Rainbow Table</u>
+	A precomputed table for reversing cryptographic hash functions, typically used for password hashing. IT contains a mapping between plaintext passwords and their corresponding hash values.
+
+<u>ML (Machine Learning)</u>
+	A field of AI that focuses on developing algorithms and models that enable computers to learn patterns and make decisions without being explicitly programmed.
+
+<u>Birthday Attack</u>
+	A type of cryptographic attack that exploits the probability of collisions in has functions.
