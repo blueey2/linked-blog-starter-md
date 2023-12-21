@@ -77,3 +77,14 @@
 
 <u>DLL Injection</u>
 	A technique used in software development and cybersecurity where an external DLL is forced into the address space of a running process.
+
+<u>Pointer dereference</u>
+	Refers to the process of accessing the value stored at the memory address pointed to by a pointer. They store memory addresses and when you dereference a pointer you retrieve the actual value stored at that address.
+
+<u>LDAP injection</u>
+	A type of cyber attack that occurs when an attacker injects malicious LDAP code into input fields or parameters used by an application to interreact with LDAP directories.
+	Look for inputs that include special characters such as * & = or other LDAP-specific operators.
+
+<u>XML injection</u>
+	A type of cyber attack that occurs when an attacker injects malicious XML code into an application or a system that parses XML data.
+	Look for inputs that include XML specific characters such as < > & etc.
