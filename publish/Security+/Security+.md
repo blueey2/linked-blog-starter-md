@@ -106,3 +106,6 @@
 
 <u>CSRF (Cross-site Request Forgery)</u>
 	A vulnerability where an attacker tricks a victim into unintentionally making a request to a web application on which the victim is authenticated.
+
+<u>API (Application Programming Interface)</u>
+	A set of rules and protocols that allows different software applications to communicate with each other.
