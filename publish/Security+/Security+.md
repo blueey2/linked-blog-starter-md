@@ -100,3 +100,9 @@
 
 <u>Race Condition</u>
 	A type of software vulnerability that occurs when the behavior of a program depends on the relative timing of events such as the order of execution of multiple threads or processes.
+
+<u>SSRF (Server side request forgery)</u>
+	A vulnerability that occurs when an attacker is able to make requests to internal resources from a vulnerable server.
+
+<u>CSRF (Cross-site Request Forgery)</u>
+	A vulnerability where an attacker tricks a victim into unintentionally making a request to a web application on which the victim is authenticated.
