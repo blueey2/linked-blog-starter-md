@@ -109,3 +109,35 @@
 
 <u>API (Application Programming Interface)</u>
 	A set of rules and protocols that allows different software applications to communicate with each other.
+
+<u>SSL Stripping</u>
+	A type of attack where an attacker intercepts and downgrades a secure HTTPS connection to an unencrypted HHTP connection.
+
+<u>Shimming</u>
+	A technique used in software development to intercept and modify API calls or functions without altering the original source code.
+
+<u>Sideloading</u>
+	The process of installing and running applications on a device often a mobile device from a source other than the official app store.
+
+<u>Refactoring</u>
+	The process of restructuring and improving the internal structure of existing code without changing its external behavior.
+
+<u>Prepending</u>
+	A concept commonly used in the context of data manipulation or string operations. It involves adding or attaching elements, characters, or data at the beginning or front of a sequence.
+
+<u>Fuzz testing</u>
+	A software testing technique that involves providing invalid, unexpected, or random data as input to discover vulnerabilities, error, or unexpected behaviors.
+
+<u>Pass the hash</u>
+	A hacking technique that involves the use of stolen password hashes rather than the actual plaintext passwords.
+
+<u>Bluejacking</u>
+	a wireless hacking technique in which an attacker sends unsolicited messages or files to bluetooth-enabled devices, such as mobile phones, tablets, or laptops.
+
+<u>Bluesnarfing</u>
+	A more malicious Bluetooth hacking technique compared to others. It involves unauthorized access to the information on a Bluetooth-enabled device such as mobile phones, through exploiting vulnerabilities in the Bluetooth connection.
+
+<u>IV (Initialization Vector)</u>
+	A fixed-size random value that is used as an input in cryptographic algorithms particularly in block ciphers to ensure that the same plaintext input, when encrypted multiple times with the same key, produces different ciphertexts.
+
+<u></u>
