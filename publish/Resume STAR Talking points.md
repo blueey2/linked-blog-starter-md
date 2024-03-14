@@ -9,4 +9,4 @@ Active Directory
 
 
 Tell me about your experience
-	My first role as IT support I and other volunteers setup and configured routers and access points in newly constructed homes. Also I have experience setting up and configuring Active Directory on virtual machines. That included group policy edits, creating user profiles and password resets.  I also configured and setup splunk in a virtual environment creating dashboards of certain alerts I want it to pick up (Clearing logs etc).
+	My first role as IT support I and other volunteers we setup and configured routers and access points in newly constructed homes making sure they had internet that was configured and properly setup. Also I have experience setting up and configuring Active Directory on virtual machines. That included group policy edits, creating user profiles and password resets.  I also configured and setup splunk in a virtual environment creating dashboards of certain alerts I want it to pick up (Clearing logs etc).
